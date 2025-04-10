@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Hero section animation
     gsap.from("#hero h2", {
-        duration: 1,
+        duration: 2,
         y: -50,
         opacity: 0,
         ease: "power2.out"
